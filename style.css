@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}   
+    
+body{
+
+    font-size: 'Roboto' , sans-serif;
+    
+}
+.material-icons{
+    color:black;
+}
+.header-left {
+    display:flex ;
+    align-items: center ;
+    height: 100px;
+    padding: 30px 10%;
+    justify-content:space-between ;
+
+}
+
+
+
+.header{
+    display: inline;
+    padding: 0px;
+
+        
+        align-items: center ;
+        height: 100px;
+        padding: 30px 10%;
+        justify-content:space-between ;
+    
+    
+}
